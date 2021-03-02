@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON `internet`.* TO 'maria'@'%';
+FLUSH PRIVILEGES;
